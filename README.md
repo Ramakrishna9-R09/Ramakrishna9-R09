@@ -45,19 +45,32 @@ Interactive workflow builder with typed node forms, graph validation, undo and r
 
 `React` | `TypeScript` | `React Flow` | `Zustand` | `Zod` | [Live demo](https://hr-workflow-designer-sigma.vercel.app/)
 
+### [Scalp Disease Classification Prototype](https://github.com/Ramakrishna9-R09/scalp-diseases-detection)
+
+Educational image-classification prototype for a 14-class scalp-image dataset, with TensorFlow pipelines for MobileNetV2 and a custom CNN, a Flask API, and a browser interface for image upload and top-three output visualization.
+
+`Python` | `TensorFlow/Keras` | `Flask` | `MobileNetV2` | `JavaScript`
+
 ## Core toolkit
 
-- **AI systems:** RAG, hybrid retrieval, multi-agent workflows, context isolation, citation verification
+- **AI and ML systems:** RAG, hybrid retrieval, multi-agent workflows, context isolation, TensorFlow/Keras
 - **Backend:** Python, FastAPI, Elixir, Phoenix, Java, Spring Boot, PostgreSQL, Redis
 - **Product engineering:** TypeScript, React, Next.js, Electron, Tailwind CSS
 - **Delivery:** Docker, GitHub Actions, OpenAPI, automated testing
 
-## Education and learning
+## Education
 
 - Integrated M.Tech in Software Engineering at Vellore Institute of Technology, Chennai - CGPA: 8.27/10
-- [Building with the Claude API](https://verify.skilljar.com/c/y74wjp348erp) - Anthropic
-- [Introduction to Model Context Protocol](https://verify.skilljar.com/c/t832agpz7q82) - Anthropic
-- [Introduction to Agent Skills](https://verify.skilljar.com/c/gj7g8nr79xug) - Anthropic
+
+## Credentials
+
+| Credential | Issuer | Issued |
+| --- | --- | --- |
+| [MongoDB Associate Developer](https://www.credly.com/go/FVe2dBQK) | MongoDB | May 2026 |
+| Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | Oracle University | September 2025 |
+| [Claude with the Anthropic API](https://verify.skilljar.com/c/y74wjp348erp) | Anthropic | May 2026 |
+| [Introduction to Model Context Protocol](https://verify.skilljar.com/c/t832agpz7q82) | Anthropic | May 2026 |
+| [Introduction to agent skills](https://verify.skilljar.com/c/gj7g8nr79xug) | Anthropic | May 2026 |
 
 ## Contact
 
