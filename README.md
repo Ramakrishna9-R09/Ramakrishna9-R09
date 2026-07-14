@@ -27,11 +27,7 @@ Windows desktop prompt optimizer with workspace-scoped hybrid retrieval, reranki
 
 `JavaScript` · `Electron` · `Node.js` · `RAG` · `Windows UI Automation`
 
-### [Allo Inventory Reservations](https://github.com/Ramakrishna9-R09/allo-inventory-reservations)
 
-Inventory reservation system and interactive concurrency lab demonstrating PostgreSQL row locks, idempotent holds, expiring reservations, and deterministic cleanup.
-
-`Next.js` · `TypeScript` · `PostgreSQL` · `Prisma`
 
 ## More engineering work
 
