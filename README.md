@@ -68,9 +68,9 @@ Educational image-classification prototype for a 14-class scalp-image dataset, w
 | --- | --- | --- |
 | [MongoDB Associate Developer](https://www.credly.com/go/FVe2dBQK) | MongoDB | May 2026 |
 | Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | Oracle University | September 2025 |
-| [Claude with the Anthropic API](https://verify.skilljar.com/c/y74wjp348erp) | Anthropic | May 2026 |
-| [Introduction to Model Context Protocol](https://verify.skilljar.com/c/t832agpz7q82) | Anthropic | May 2026 |
-| [Introduction to agent skills](https://verify.skilljar.com/c/gj7g8nr79xug) | Anthropic | May 2026 |
+| [Building with the Claude API](https://verify.skilljar.com/c/y74wjp348erp) | Anthropic Education | May 2026 |
+| [Introduction to Model Context Protocol](https://verify.skilljar.com/c/t832agpz7q82) | Anthropic Education | May 2026 |
+| [Introduction to agent skills](https://verify.skilljar.com/c/gj7g8nr79xug) | Anthropic Education | May 2026 |
 
 ## Contact
 
