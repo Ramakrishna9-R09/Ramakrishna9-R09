@@ -1,142 +1,56 @@
-<h1 align="center">Hi 👋, I'm Venkata Ramakrishna Kamepalli</h1>
+<h1 align="center">Venkata Ramakrishna Kamepalli</h1>
 
-<h3 align="center">Software Engineer &#8226; GenAI / Agentic Developer &#8226; Serverless Cloud Engineer</h3>
+<p align="center"><strong>Software Engineer building AI-powered applications and reliable backend systems</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=750&color=A855F7&center=true&vCenter=true&width=780&height=45&lines=Building+Autonomous+Agents+%26+MCP+Tools;Certified+Anthropic+API+%26+Agent+Specialist;Python+%7C+AWS+Lambda+%7C+React+%7C+MongoDB;MongoDB+Certified+Associate+Developer" alt="Typing animation" />
+  Hyderabad, India &middot; Open to software engineering internships and 2027 graduate roles in AI and backend systems
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ramakrishna9-R09&style=for-the-badge&color=a855f7" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Ramakrishna9-R09?style=for-the-badge&logo=github&label=Followers&color=111827" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Ramakrishna9-R09?style=for-the-badge&logo=github&label=Stars&color=F59E0B" alt="GitHub stars" />
+  <a href="https://www.linkedin.com/in/venkata-ramakrishna-kamepalli-b60878290/">LinkedIn</a> &middot;
+  <a href="mailto:ramakrishna.mvp2004@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  📍 Based in Hyderabad, India &nbsp;|&nbsp; 🚀 Engineering production-grade Serverless Cloud & AI Platforms
-</p>
+Integrated M.Tech in Software Engineering student at VIT Chennai (2022–2027; CGPA: 8.27/10). I build applied AI tools and backend systems where correctness matters—from workspace-scoped RAG to retry-safe APIs and concurrency-controlled inventory flows.
 
----
+## Featured engineering work
 
-## 🚀 About Me
+### [Relay Orders](https://github.com/Ramakrishna9-R09/relay-orders)
 
-- 🎓 **Integrated M.Tech in Software Engineering** @ **Vellore Institute of Technology (VIT) Chennai** (CGPA: 8.27/10).
-- 🏆 **Certified Developer**: MongoDB Certified Associate Developer (Valid till May 2026).
-- 🤖 **Agentic Systems Expert**: Certified in Anthropic Claude API, Model Context Protocol (MCP), and Agent Skills.
-- ⚡ **Backend & Concurrency Focus**: Specializing in object-oriented Python, Pytest validation suites, and concurrent multi-threading structures.
-- ☁️ **Cloud Native Architecture**: Experienced in AWS Serverless stacks (Lambda, API Gateway, S3, Cognito) and event-driven microservices.
+Reliability-focused multi-tenant order API with idempotent commands, row-locked state transitions, atomic audit events and Oban jobs, tenant isolation, OpenAPI, Docker, tests, and CI.
 
----
+`Elixir` · `Phoenix` · `PostgreSQL` · `Oban` · `Docker`
 
-## 🛠️ Tech Stack & Skills Matrix
+### [Prompt Optimizer](https://github.com/Ramakrishna9-R09/prompt-optimizer-rag-desktop)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,postgres,redis,aws,git,github,docker,linux,html,css,tailwind,c,java,vscode&perline=10" alt="Tech stack icons" />
-</p>
+Windows desktop prompt optimizer with workspace-scoped hybrid retrieval, reranking, memory isolation, secret redaction, prompt-injection guardrails, automated tests, and CI.
 
-<table>
-  <tr>
-    <td><strong>GenAI & Agents</strong></td>
-    <td>Claude API Integration &#8226; Model Context Protocol (MCP) &#8226; Tool-use Pipelines &#8226; RAG Architecture</td>
-  </tr>
-  <tr>
-    <td><strong>Backend & Serverless</strong></td>
-    <td>Python (OOP, Pytest, Multithreading) &#8226; AWS Lambda &#8226; NodeJS &#8226; REST APIs &#8226; Express.js</td>
-  </tr>
-  <tr>
-    <td><strong>Frontend UI/UX</strong></td>
-    <td>ReactJS &#8226; TypeScript &#8226; JavaScript (ES6+) &#8226; Tailwind CSS &#8226; Framer Motion</td>
-  </tr>
-  <tr>
-    <td><strong>Databases & Caching</strong></td>
-    <td>MongoDB (Certified) &#8226; Index Tuning & Aggregate Queries &#8226; Redis Cache &#8226; SQL (PostgreSQL, MySQL)</td>
-  </tr>
-  <tr>
-    <td><strong>DevOps & Cloud</strong></td>
-    <td>AWS (Cognito, API Gateway, S3, CloudWatch) &#8226; Docker Containerization &#8226; Git Version Workflows &#8226; Linux</td>
-  </tr>
-</table>
+`JavaScript` · `Electron` · `Node.js` · `RAG` · `Windows UI Automation`
 
----
+### [Allo Inventory Reservations](https://github.com/Ramakrishna9-R09/allo-inventory-reservations)
 
-## 💻 AgenticDeveloper.py
+Inventory reservation system and interactive concurrency lab demonstrating PostgreSQL row locks, idempotent holds, expiring reservations, and deterministic cleanup.
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+`Next.js` · `TypeScript` · `PostgreSQL` · `Prisma`
 
-class AgenticDeveloper:
-    def __init__(self):
-        self.name = "Venkata Ramakrishna Kamepalli"
-        self.role = "Software Engineer & GenAI/Agentic Developer"
-        self.education = "Integrated M.Tech Software Engineering @ VIT Chennai"
-        self.languages = ["Python", "TypeScript", "JavaScript", "SQL", "C", "Java"]
-        self.databases = ["MongoDB (Certified)", "PostgreSQL", "MySQL", "DynamoDB"]
-        self.agent_systems = ["Claude SDK", "Model Context Protocol (MCP)", "RAG Systems", "Semantic Cache"]
-        self.cloud_infrastructure = ["AWS Lambda", "Cognito", "API Gateway", "S3", "Docker"]
-        self.core_competencies = [
-            "Concurrently-threaded backend pipelines",
-            "Serverless microservice engineering",
-            "Type-safe frontends & vector dashboards",
-            "Robust unit test suites (Pytest)"
-        ]
+## More engineering work
 
-    def build_system(self):
-        return "Clean code, deterministic agents, and high-performance databases."
-```
+| Project | Engineering focus |
+| --- | --- |
+| [Spring Boot Guardrails Backend](https://github.com/Ramakrishna9-R09/spring-boot--backend) | REST API with Redis-backed reply caps, comment-depth limits, cooldowns, virality counters, scheduled notification batching, tests, and Docker Compose. |
+| [HR Workflow Designer](https://github.com/Ramakrishna9-R09/hr-workflow-designer) | Type-safe workflow editor with graph validation, undo/redo, JSON import/export, auto-layout, and simulated API execution. |
+| [Scalp Image Classification Prototype](https://github.com/Ramakrishna9-R09/scalp-diseases-detection) | Educational, non-clinical 14-class image-classification prototype with MobileNetV2/custom CNN training pipelines, a Flask API, and an upload interface. |
 
----
+## Technical strengths
 
-## 🚀 Featured Portfolios
+- **Languages:** Python, TypeScript/JavaScript, Java, Elixir
+- **AI and ML:** RAG, hybrid retrieval, reranking, multi-agent workflows, TensorFlow/Keras
+- **Backend and data:** FastAPI, Phoenix, Spring Boot, PostgreSQL, Redis, Prisma
+- **Engineering:** idempotency, concurrency control, API design, Docker, GitHub Actions, automated testing
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**StudyMate**](https://github.com/Ramakrishna9-R09/StudyMate) | AI-powered serverless study workspace delivering 5 modules (MCQs, mindmaps, summary, flashcards) with Lambda optimizations reducing latency by 20%. | Python, AWS Lambda, S3, API Gateway, Cognito, CloudWatch, Pytest |
-| [**IoT Scalp Disease Detection**](https://github.com/Ramakrishna9-R09/IoT-Scalp-Disease) | Edge AI classification pipeline streaming frames via ESP32-CAM and utilizing concurrent Python thread pools to process CNN classification. | Python, TensorFlow, Embedded C++, ESP32-CAM, Linux, Pytest |
-| [**VIT Connect**](https://github.com/Ramakrishna9-R09/VIT-Connect) | MERN student community platform featuring custom MongoDB compound indexing and aggregation pipelines, boosting query performance by 20%. | React, Node.js, Express.js, MongoDB, JWT, Git, Agile |
-| [**HR Workflow Designer**](https://github.com/Ramakrishna9-R09/HR-Workflow-Designer) | Drag & drop workflow automation canvas built with strict type-safety, mapping structured graphical nodes to backend execution triggers. | TypeScript, React.js, Node.js, Express.js, REST APIs |
+## Education and credentials
 
----
-
-## 🏆 Official Certifications
-
-- 🏷️ **MongoDB Certified Associate Developer** - *Issued by MongoDB* ([Verify Badge](https://www.credly.com/users/venkata-ramakrishna.fe20e510))
-- 🤖 **Claude with the Anthropic API** - *Issued by Anthropic* ([Verify Certificate](https://verify.skilljar.com/c/y74wjp348erp))
-- 🔌 **Introduction to Model Context Protocol (MCP)** - *Issued by Anthropic* ([Verify Certificate](https://verify.skilljar.com/c/t832agpz7q82))
-- 🎯 **Introduction to Agent Skills** - *Issued by Anthropic* ([Verify Certificate](https://verify.skilljar.com/c/gj7g8nr79xug))
-- ☁️ **OCI 2025 Certified AI Foundations Associate** - *Issued by Oracle University*
-
----
-
-## 📊 GitHub Diagnostics & Activity
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ramakrishna9-R09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramakrishna9-R09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Ramakrishna9-R09&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramakrishna9-R09&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
-</p>
-
----
-
-## 🌐 Connect & Collaborate
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/venkata-ramakrishna-kamepalli-b60878290/">
-    <img src="https://img.shields.io/badge/LinkedIn-Venkata%20Ramakrishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://ramakrishna-agent-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Live-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:ramakrishna.mvp2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<h3 align="center">"Building reliable systems that scale ideas into real-world impact."</h3>
+- **Integrated M.Tech in Software Engineering** — Vellore Institute of Technology, Chennai · 2022–2027 · CGPA: 8.27/10
+- [**MongoDB Associate Developer**](https://www.credly.com/go/FVe2dBQK) — MongoDB · May 2026
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** — Oracle University · September 2025
+- **Anthropic Education** — [Building with the Claude API](https://verify.skilljar.com/c/y74wjp348erp) · [Introduction to Model Context Protocol](https://verify.skilljar.com/c/t832agpz7q82) · [Introduction to agent skills](https://verify.skilljar.com/c/gj7g8nr79xug) · May 2026
