@@ -17,10 +17,10 @@
 <!-- RECRUITER 30-SECOND SNAPSHOT -->
 <table align="center">
 <tr>
-<td align="center"><strong>🎯 Role</strong><br/>LLMOps & RAG Engineer<br/><code>GenAI Infra</code></td>
-<td align="center"><strong>🧠 Core</strong><br/>PyTorch · TF · FastAPI<br/><code>FAISS · Pinecone · LangGraph</code></td>
-<td align="center"><strong>✅ Proof</strong><br/>Cited-only RAG · Evals<br/><code>CI · Docker · AWS</code></td>
-<td align="center"><strong>📬 Hire</strong><br/><a href="mailto:ramakrishna.chowdary2005@gmail.com">Email me</a><br/><code>24h reply</code></td>
+<td align="center">🎯 <strong>Role</strong><br/>LLMOps & RAG Engineer<br/><img src="https://img.shields.io/badge/GenAI_Infra-111827?style=flat-square" alt="role" /></td>
+<td align="center">🧠 <strong>Core</strong><br/>PyTorch · TF · FastAPI<br/><img src="https://img.shields.io/badge/FAISS_Pinecone_LangGraph-65A30D?style=flat-square" alt="core" /></td>
+<td align="center">✅ <strong>Proof</strong><br/>Cited-only RAG · Evals<br/><img src="https://img.shields.io/badge/CI_Docker_AWS-0A66C2?style=flat-square" alt="proof" /></td>
+<td align="center">📬 <strong>Hire</strong><br/><a href="mailto:ramakrishna.chowdary2005@gmail.com">Email me</a><br/><img src="https://img.shields.io/badge/Reply-24h-D3FF53?style=flat-square" alt="hire" /></td>
 </tr>
 </table>
 
@@ -39,7 +39,7 @@
 
 <p align="center">Hyderabad, India · LLMOps / RAG / GenAI-infra internships · 2027 graduate roles · +91 80088 74541</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D3FF53,100:7DF0FF&height=3" alt="" />
 
 ## 🖥️ Stack — visual map
 
@@ -65,6 +65,8 @@
 | LLMOps & GenAI infra | RAG & retrieval | Agents & reliable APIs |
 | --- | --- | --- |
 | Eval harnesses, grounding checks, versioned prompts/datasets, CI-gated deploys, latency/cost/quality guardrails, FastAPI on Docker + AWS | Hybrid **FAISS · Pinecone · pgvector + BM25**, RRF reranking, PyTorch/TF rankers, citation verification, workspace isolation | LangGraph orchestration, critic/revision loops, MCP tools, human approval gates, typed FastAPI, idempotency, row locks, Redis guardrails, tests, Terraform |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:14532D&height=64&text=FLAGSHIP%20SYSTEMS%20—%20CITED,%20EVALUATED,%20DEPLOYED&fontSize=20&fontColor=D3FF53" alt="flagships" />
 
 ## 🏆 Flagship builds — frontend-grade presentation
 
@@ -106,10 +108,15 @@
 
 </details>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052E16,100:111827&height=64&text=PROOF%20WALL%20—%20LIVE%20GITHUB%20SIGNAL&fontSize=20&fontColor=D3FF53" alt="proof" />
+
 ## 📊 GitHub — the proof wall
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramakrishna9-R09&theme=github_dark" alt="profile details" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramakrishna9-R09&theme=github_dark" alt="commit stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramakrishna9-R09&theme=github_dark&utcOffset=5.5" alt="productive time" />
 </p>
 
 <p align="center">
@@ -117,6 +124,7 @@
   <img src="https://streak-stats.demolab.com?user=Ramakrishna9-R09&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramakrishna9-R09&layout=compact&theme=transparent&hide_border=true&title_color=22c55e&text_color=e5e7eb" alt="langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramakrishna9-R09&theme=github_dark" alt="repos per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ramakrishna9-R09&theme=github_dark" alt="commit lang" />
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=Ramakrishna9-R09&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies" />
@@ -144,7 +152,7 @@
 
 ## 🎨 Frontend craft — why this profile looks senior-built
 
-`Zero-framework portfolio` · `Vanilla HTML/CSS/JS` · `Binary-rain canvas on portrait` · `Particle field + cursor glow` · `Tilt + spotlight cards` · `⌘K palette` · `Live GitHub API wall` · `60fps, responsive, accessible`
+`Zero-framework portfolio` · `Vanilla HTML/CSS/JS` · `Binary-rain canvas` · `Particle field + cursor glow` · `Tilt + spotlight cards` · `⌘K palette` · `Live GitHub API wall` · `60fps, responsive, accessible`
 
 - Live site code: [aurora-live-intelligence](https://github.com/Ramakrishna9-R09/aurora-live-intelligence) · [performance-dashboard (Next.js 14, 10k pts @60fps)](https://github.com/Ramakrishna9-R09/performance-dashboard)
 
@@ -163,6 +171,10 @@
 - **Oracle OCI 2025 AI Foundations Associate** — Sep 2025
 - **Anthropic** — [Claude API](https://verify.skilljar.com/c/y74wjp348erp) | [MCP](https://verify.skilljar.com/c/t832agpz7q82) | [Agent Skills](https://verify.skilljar.com/c/gj7g8nr79xug) | May 2026
 - **Agile Team Lead** — 4-member team, VIT Connect (2024)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D3FF53,100:7DF0FF&height=3" alt="" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:052E16&height=64&text=LET'S%20BUILD%20PRODUCTION%20GENAI&fontSize=20&fontColor=D3FF53" alt="cta" />
 
 ## 📬 Contact — replies within 24h
 
