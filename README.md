@@ -25,7 +25,7 @@
 </table>
 
 <p align="center">
-  <img src="profile.jpg" width="212" alt="Venkata Ramakrishna Kamepalli — LLMOps & RAG Engineer" />
+  <img src="profile-binary.png" width="212" alt="Venkata Ramakrishna Kamepalli — rendered in binary" />
   <br />
   <code>01001100 01001101 01001111 01010000 01110011 · 01110010 01100001 01100111</code>
   <br />
@@ -202,4 +202,4 @@ flowchart TB
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F0D,100:D3FF53&height=120&section=footer" alt="footer" />
 
-<!-- PUBLISH: copy to Ramakrishna9-R09/Ramakrishna9-R09/README.md + add profile.jpg beside it, commit to main. -->
+<!-- PUBLISH: copy to Ramakrishna9-R09/Ramakrishna9-R09/README.md + add profile-binary.png beside it, commit to main. -->
