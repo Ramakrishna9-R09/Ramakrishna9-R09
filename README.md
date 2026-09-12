@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D3FF53,100:0A0F0D&height=200&section=header&text=Venkata%20Ramakrishna%20Kamepalli&fontSize=40&fontColor=0A0F0D&desc=LLMOps%20%26%20RAG%20Engineer%20%7C%20GenAI%20Infrastructure&descAlignY=72&descSize=16&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D3FF53,100:0A0F0D&height=200&section=header&text=Venkata%20Ramakrishna%20Kamepalli&fontSize=40&fontColor=0A0F0D&desc=LLMOps%20%2B%20RAG%20Engineer%20%7C%20GenAI%20Infrastructure&descAlignY=70&descSize=16" alt="header" />
+
+<h1 align="center">Venkata Ramakrishna Kamepalli</h1>
 
 <p align="center"><strong>LLMOps &amp; RAG Engineer | GenAI Infrastructure | PyTorch, TensorFlow, FastAPI | FAISS, Pinecone, LangGraph</strong></p>
 
