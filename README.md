@@ -17,10 +17,10 @@
 <!-- RECRUITER 30-SECOND SNAPSHOT -->
 <table align="center">
 <tr>
-<td align="center">🎯 <strong>Role</strong><br/>LLMOps & RAG Engineer<br/><img src="https://img.shields.io/badge/GenAI_Infra-111827?style=flat-square" alt="role" /></td>
-<td align="center">🧠 <strong>Core</strong><br/>PyTorch · TF · FastAPI<br/><img src="https://img.shields.io/badge/FAISS_Pinecone_LangGraph-65A30D?style=flat-square" alt="core" /></td>
-<td align="center">✅ <strong>Proof</strong><br/>Cited-only RAG · Evals<br/><img src="https://img.shields.io/badge/CI_Docker_AWS-0A66C2?style=flat-square" alt="proof" /></td>
-<td align="center">📬 <strong>Hire</strong><br/><a href="mailto:ramakrishna.chowdary2005@gmail.com">Email me</a><br/><img src="https://img.shields.io/badge/Reply-24h-D3FF53?style=flat-square" alt="hire" /></td>
+<td align="center"><strong>Role</strong><br/>LLMOps & RAG Engineer<br/><img src="https://img.shields.io/badge/GenAI_Infra-111827?style=flat-square" alt="role" /></td>
+<td align="center"> <strong>Core</strong><br/>PyTorch · TF · FastAPI<br/><img src="https://img.shields.io/badge/FAISS_Pinecone_LangGraph-65A30D?style=flat-square" alt="core" /></td>
+<td align="center"> <strong>Proof</strong><br/>Cited-only RAG · Evals<br/><img src="https://img.shields.io/badge/CI_Docker_AWS-0A66C2?style=flat-square" alt="proof" /></td>
+<td align="center"><strong>Hire</strong><br/><a href="mailto:ramakrishna.chowdary2005@gmail.com">Email me</a><br/><img src="https://img.shields.io/badge/Reply-24h-D3FF53?style=flat-square" alt="hire" /></td>
 </tr>
 </table>
 
@@ -41,7 +41,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D3FF53,100:7DF0FF&height=3" alt="" />
 
-## 🖥️ Stack — visual map
+## Stack — visual map
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,postgres,redis,docker,aws,terraform,git,githubactions,typescript,java,elixir&theme=dark" alt="skills" />
@@ -68,7 +68,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:14532D&height=64&text=FLAGSHIP%20SYSTEMS%20—%20CITED,%20EVALUATED,%20DEPLOYED&fontSize=20&fontColor=D3FF53" alt="flagships" />
 
-## 🏆 Flagship builds — frontend-grade presentation
+## Flagship builds — frontend-grade presentation
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1F2937&height=90&text=Sentellent%20—%20Agentic%20Equity%20RAG%20%7C%20LangGraph%20%2B%20FastAPI%20%2B%20AWS&fontSize=18&fontColor=D3FF53" alt="sentellent" />
 
@@ -95,7 +95,7 @@
 `GitHub Copilot` | `Orchestration` | `MCP` | `Human-in-the-Loop` | `PowerShell`
 
 <details>
-<summary><strong>📦 Full operating bar (click to expand)</strong></summary>
+<summary><strong> Full operating bar (click to expand)</strong></summary>
 
 | Step | Bar |
 | --- | --- |
@@ -110,7 +110,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:052E16,100:111827&height=64&text=PROOF%20WALL%20—%20LIVE%20GITHUB%20SIGNAL&fontSize=20&fontColor=D3FF53" alt="proof" />
 
-## 📊 GitHub — the proof wall
+##  GitHub — the proof wall
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramakrishna9-R09&theme=github_dark" alt="profile details" />
@@ -134,7 +134,7 @@
 
 <p align="center"><strong>21 public repos</strong> — pinned: <code>sentellent-indian-equity-analyst</code> · <code>enterprise-copilot-agent-workspace</code> · <code>relay-orders</code> · <code>prompt-optimizer-rag-desktop</code> · <code>multilingual-llm-systems-audit</code> · <code>performance-dashboard</code></p>
 
-## 🧬 AI research and applied ML
+##  AI research and applied ML
 
 | Project | Focus |
 | --- | --- |
@@ -142,7 +142,7 @@
 | [Scalp Image Classification Prototype](https://github.com/Ramakrishna9-R09/scalp-diseases-detection) | Educational, non-clinical 14-class CNN — MobileNetV2/custom (TensorFlow/Keras), Flask API + upload UI. |
 | [Multilingual LLM Systems Audit](https://github.com/Ramakrishna9-R09/multilingual-llm-systems-audit) | Tokenization, KV-cache, serving goodput, launch decisions — evidence-driven, reproducible. |
 
-## 🛠️ Backend and product systems
+##  Backend and product systems
 
 | Project | Focus |
 | --- | --- |
@@ -150,13 +150,13 @@
 | [Spring Boot Guardrails Backend](https://github.com/Ramakrishna9-R09/spring-boot--backend) | Java REST API: Redis caps, depth limits, cooldowns, virality counters, batched notifications, Docker Compose. |
 | [HR Workflow Designer](https://github.com/Ramakrishna9-R09/hr-workflow-designer) | Type-safe visual editor: validation, undo/redo, JSON I/O, auto-layout, simulation. |
 
-## 🎨 Frontend craft — why this profile looks senior-built
+##  Frontend craft — why this profile looks senior-built
 
 `Zero-framework portfolio` · `Vanilla HTML/CSS/JS` · `Binary-rain canvas` · `Particle field + cursor glow` · `Tilt + spotlight cards` · `⌘K palette` · `Live GitHub API wall` · `60fps, responsive, accessible`
 
 - Live site code: [aurora-live-intelligence](https://github.com/Ramakrishna9-R09/aurora-live-intelligence) · [performance-dashboard (Next.js 14, 10k pts @60fps)](https://github.com/Ramakrishna9-R09/performance-dashboard)
 
-## 🧰 Toolkit
+##  Toolkit
 
 - **LLMOps / GenAI infra:** eval + grounding gates, versioned prompts/datasets, FastAPI serving, Docker, AWS ECS/ECR/OIDC, Terraform, GitHub Actions
 - **Modeling:** PyTorch, TensorFlow/Keras, scikit-learn foundations, applied NLP track
@@ -164,7 +164,7 @@
 - **Languages:** Python, TypeScript/JavaScript, Java, Elixir, SQL
 - **Backend & data:** FastAPI, Phoenix, Spring Boot, Redis, Prisma, MySQL, MongoDB
 
-## 🎓 Education and credentials
+##  Education and credentials
 
 - **Integrated M.Tech, Software Engineering** — Vellore Institute of Technology, Chennai | 2022–2027 | **CGPA 8.28/10**
 - [**MongoDB Associate Developer**](https://www.credly.com/go/FVe2dBQK) — May 2026
@@ -176,7 +176,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:052E16&height=64&text=LET'S%20BUILD%20PRODUCTION%20GENAI&fontSize=20&fontColor=D3FF53" alt="cta" />
 
-## 📬 Contact — replies within 24h
+##  Contact — replies within 24h
 
 <p align="center">
   <a href="mailto:ramakrishna.chowdary2005@gmail.com"><img src="https://img.shields.io/badge/ramakrishna.chowdary2005@gmail.com-D3FF53?style=for-the-badge&logo=gmail&logoColor=black" alt="email" /></a>
