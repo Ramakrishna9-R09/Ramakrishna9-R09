@@ -25,14 +25,6 @@
 </table>
 
 <p align="center">
-  <img src="profile-binary.png" width="212" alt="Venkata Ramakrishna Kamepalli — rendered in binary" />
-  <br />
-  <code>01001100 01001101 01001111 01010000 01110011 · 01110010 01100001 01100111</code>
-  <br />
-  <code>binary-guarded portrait · FAISS · Pinecone · LangGraph · FastAPI</code>
-</p>
-
-<p align="center">
   I build <strong>production GenAI infrastructure</strong> — LLMOps pipelines that <strong>retrieve evidence, coordinate specialized agents, verify outputs,</strong> and serve through dependable FastAPI systems. No hallucinating demos. Only cited, evaluated, deployable systems.
 </p>
 
@@ -73,24 +65,6 @@
 | LLMOps & GenAI infra | RAG & retrieval | Agents & reliable APIs |
 | --- | --- | --- |
 | Eval harnesses, grounding checks, versioned prompts/datasets, CI-gated deploys, latency/cost/quality guardrails, FastAPI on Docker + AWS | Hybrid **FAISS · Pinecone · pgvector + BM25**, RRF reranking, PyTorch/TF rankers, citation verification, workspace isolation | LangGraph orchestration, critic/revision loops, MCP tools, human approval gates, typed FastAPI, idempotency, row locks, Redis guardrails, tests, Terraform |
-
-## 🏗️ How it runs — architecture recruiters can verify
-
-```mermaid
-flowchart LR
-  A[Context<br/>auth-scoped workspace] --> B[Retrieve<br/>FAISS + Pinecone + pgvector + BM25]
-  B --> C[Rerank<br/>RRF + PyTorch/TF grader]
-  C --> D[Orchestrate<br/>LangGraph drafter → critic → adjudicator]
-  D --> E[Verify<br/>citations required + guardrails + evals]
-  E --> F[Serve<br/>FastAPI + Docker + AWS ECS + Terraform + CI]
-```
-
-```mermaid
-flowchart TB
-  ING[Ingest fundamentals + news + prices] --> IDX[Index FAISS / Pinecone / pgvector]
-  IDX --> Q[Query + profile] --> R[Hybrid retrieve top-128] --> RR[Rerank top-8]
-  RR --> G[LangGraph generate cited-only] --> EV[Eval + audit trace] --> API[FastAPI + OIDC] --> DEPLOY[ECS/ECR OIDC rollout]
-```
 
 ## 🏆 Flagship builds — frontend-grade presentation
 
@@ -202,4 +176,4 @@ flowchart TB
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F0D,100:D3FF53&height=120&section=footer" alt="footer" />
 
-<!-- PUBLISH: copy to Ramakrishna9-R09/Ramakrishna9-R09/README.md + add profile-binary.png beside it, commit to main. -->
+<!-- PUBLISH: copy to Ramakrishna9-R09/Ramakrishna9-R09/README.md, commit to main. -->
